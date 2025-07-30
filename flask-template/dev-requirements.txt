@@ -1,2 +1,6 @@
 -r requirements.txt
 pytest
+flask
+pandas
+scikit-learn
+numpy
